@@ -49,3 +49,4 @@ print("columns",len(df.axes[1]))
 ![fff](https://user-images.githubusercontent.com/121165867/214647651-da272d51-b44f-45e5-93ee-bfefe6c644c5.png)
 
 ## RESULT:
+Thus a python program is written to read the contents of a CSV file
