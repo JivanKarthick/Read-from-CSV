@@ -45,8 +45,8 @@ print("columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![ggg](https://user-images.githubusercontent.com/121165867/214647545-720f5977-ea96-4ecf-a760-bc9fdb7f67c7.png)
-![fff](https://user-images.githubusercontent.com/121165867/214647651-da272d51-b44f-45e5-93ee-bfefe6c644c5.png)
+![4](https://user-images.githubusercontent.com/121165867/214824008-482b9950-73c6-403f-9486-54326795753b.jpeg)
+
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file
